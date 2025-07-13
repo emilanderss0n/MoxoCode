@@ -2,7 +2,9 @@
 
 A beautiful dark theme with purple and blue accents for Visual Studio Code.
 
-![Theme Preview](screenshot.png)
+## Preview
+
+![Theme Preview 1](images/1.png)
 
 ## Installation
 
@@ -26,6 +28,8 @@ A beautiful dark theme with purple and blue accents for Visual Studio Code.
 - ⚡ High contrast for excellent readability
 - 🎨 Carefully designed syntax highlighting
 - 🔧 Support for JavaScript, TypeScript, Python, HTML, CSS, and more
+
+![Theme Preview 2](images/2.png)
 
 ## Color Palette
 
