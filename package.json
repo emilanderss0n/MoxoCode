@@ -1,0 +1,38 @@
+{
+  "name": "moxocode-theme",
+  "displayName": "MoxoCode Theme",
+  "description": "A beautiful dark theme with purple and blue accents for Visual Studio Code",
+  "version": "1.0.0",
+  "publisher": "EmilAndersson",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/emilanderss0n/MoxoCode"
+  },
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "dark",
+    "theme",
+    "purple",
+    "blue",
+    "moxocode"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "MoxoCode",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MoxoCode-color-theme.json"
+      }
+    ]
+  },
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#382864",
+    "theme": "dark"
+  }
+}
